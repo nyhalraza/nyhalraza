@@ -54,8 +54,13 @@ I am a Computer Science student with specialization in AI dedicated to building 
 ## 📊 GitHub Stats
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nyhalraza&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nyhalraza&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff)
+<!-- Main Stats Card (Simplified) -->
+<img src="https://github-readme-stats.vercel.app/api?username=nyhalraza&show_icons=true&theme=transparent&title_color=58a6ff&icon_color=58a6ff&text_color=ffffff" alt="Nyhal's GitHub Stats" />
+
+<br/>
+
+<!-- Top Languages Card (Simplified) -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nyhalraza&layout=compact&theme=transparent&title_color=58a6ff&text_color=ffffff" alt="Nyhal's Top Languages" />
 
 </div>
 
