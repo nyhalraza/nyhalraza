@@ -62,6 +62,12 @@ I am a Computer Science student with specialization in AI dedicated to building 
 <!-- Top Languages Card (Simplified) -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nyhalraza&layout=compact&theme=transparent&title_color=58a6ff&text_color=ffffff" alt="Nyhal's Top Languages" />
 
+<br />
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nyhalraza&theme=darkhub&no-frame=true" alt="Trophies" />
+</p>
+
 </div>
 
 ---
