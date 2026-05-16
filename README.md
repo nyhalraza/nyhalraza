@@ -1,5 +1,6 @@
-![Neural Network Propagation](nn_propagation.gif)
-
+<p align="center">
+  <img src="nn_propagation.gif" width="1000px">
+</p>
 <!--
 **nyhalraza/nyhalraza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
