@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there! I'm [Your Name] 👋
+# Hi there! I'm Nehal 👋
 ### 🤖 Aspiring AI Engineer | Deep Learning Enthusiast | Software Developer
 
 <!-- The Animated NN Header you created -->
@@ -10,16 +10,16 @@
 
 *"Bridging the gap between mathematical complexity and functional software design."*
 
-[Portfolio](https://yourportfolio.com) • [LinkedIn](https://linkedin.com/in/yourprofile) • [Email](mailto:your@email.com)
+[X](https://x.com/NyhalRaza) • [LinkedIn](https://www.linkedin.com/in/nyhal-raza-34a583283/) • [Email](mailto:nyhal.raza@gmail.com)
 
 </div>
 
 ## 🧬 About Me
-I am a Computer Science and AI student dedicated to building intelligent systems that solve real-world problems. With a background in **Computer Vision** and **Deep Learning**, I focus on developing efficient models and integrating them into robust software architectures. I also have a strong eye for **UI/UX and design**, ensuring that technical solutions are as intuitive as they are powerful.
+I am a Computer Science student with specialization in AI dedicated to building intelligent systems that solve real-world problems. With a background in **Computer Vision** and **Deep Learning**, I focus on developing efficient models and integrating them into robust software architectures. I also have a strong eye for **UI/UX and design**, ensuring that technical solutions are as intuitive as they are powerful.
 
 - 🔭 **Current Focus:** Deepening my expertise in Computer Vision and generative models.
-- 🛠 **Working on:** [CareerPilot](https://github.com/your-username/careerpilot) - An AI-driven interview coaching platform.
-- 🌱 **Learning:** Advanced Parallel Computing and Distributed Systems.
+- 🛠 **Working on:** [DeepGuard AI](https://github.com/your-username/careerpilot) - An AI-driven deepfake detection platform.
+- 🌱 **Learning:** GenAI.
 - ⚡ **Fun Fact:** When I'm not coding, I'm likely analyzing game mechanics or hitting a new PR in the gym.
 
 ---
