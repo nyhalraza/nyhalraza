@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi there! I'm Nehal 👋
-### 🤖 Aspiring AI Engineer | Deep Learning Enthusiast | Software Developer
+### 🤖 Aspiring AI Engineer | Deep Learning Enthusiast | Thumbnail Designer
 
 <!-- The Animated NN Header you created -->
 <img src="nn_propagation.gif" width="900" alt="Neural Network Propagation Animation">
