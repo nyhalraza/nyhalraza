@@ -10,7 +10,7 @@
 
 *"Bridging the gap between mathematical complexity and functional software design."*
 
-[X](https://x.com/NyhalRaza) • [LinkedIn](https://www.linkedin.com/in/nyhal-raza-34a583283/) • [Email](mailto:nyhal.raza@gmail.com)
+[X](https://x.com/NyhalRaza) • [LinkedIn](https://www.linkedin.com/in/nyhal-raza) • [Email](mailto:nyhal.raza@gmail.com)
 
 </div>
 
